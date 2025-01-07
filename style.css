@@ -1,0 +1,47 @@
+#servicebtn{
+    box-shadow: 1px 4px 7px gray;
+    transition: 0.3s ease, transform 0.3s;
+}
+#servicebtn:hover{
+    transform: translate(0,-6%);
+    background-color: red;
+    
+}
+
+#btn1{
+    position: fixed;
+    bottom: 70px;
+    right: 60px;
+    background-color: red;
+    
+}
+#btn2{
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+    background-color: red;
+}
+#superlab{
+    text-decoration: none;
+    color: gray;
+}
+#superlab:hover{
+    color: red;
+    transition: 1s ease;
+}
+#mdmseller{
+    text-decoration: none;
+    color: black;
+}
+#mdmseller:hover{
+    color: red;
+    transition: 0.5s ease;
+}
+#mdmstore{
+    text-decoration: none;
+    color: black;
+}
+#mdmstore:hover{
+    color: red;
+    transition: 0.5s ease;
+}
